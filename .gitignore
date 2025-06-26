@@ -1,2 +1,4 @@
 .vscode/
 playground/
+.DS_Store
+logs/
